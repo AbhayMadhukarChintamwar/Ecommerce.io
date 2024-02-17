@@ -1,0 +1,17 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000E\u0000c\u0000o\u0000m\u0000m\u0000e\u0000r\u0000c\u0000e\u0000.\u0000i\u0000o\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "abhay chintamwar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  }
+}
